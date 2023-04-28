@@ -20,9 +20,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-
-### Links
+![Web capture_28-4-2023_141438_](https://user-images.githubusercontent.com/131779330/235144864-95f5e5ba-d197-42f3-8de2-04de99087717.jpeg)
+![Web capture_28-4-2023_141516_](https://user-images.githubusercontent.com/131779330/235144969-9551d5bf-4f35-4886-8338-66b33218da4c.jpeg)
+### links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
