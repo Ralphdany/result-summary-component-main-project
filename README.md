@@ -24,7 +24,7 @@ Users should be able to:
 ![Web capture_28-4-2023_141516_](https://user-images.githubusercontent.com/131779330/235144969-9551d5bf-4f35-4886-8338-66b33218da4c.jpeg)
 ### links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site]( https://ralphdany.github.io/result-summary-component-main-project/)
 
 ### Built with
 
