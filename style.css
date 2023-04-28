@@ -81,22 +81,25 @@ main{
     padding: .5rem 1rem;
     border-radius: .5rem;
 }
+.category h2{
+    font-size:var(--title-);
+}
 .category:nth-child(1){
     background-color: hsla(0, 100%, 67%, 0.08);
 }
-.category:nth-child(1) .title h3{
+.category:nth-child(1) .title h2{
     color: hsl(0, 100%, 67%);
 }
 .category:nth-child(2){
     background-color: hsla(39, 100%, 56%, 0.08)
 }
-.category:nth-child(2) .title h3{
+.category:nth-child(2) .title h2{
     color: hsl(39, 100%, 56%);
 }
 .category:nth-child(3){
     background-color: hsla(166, 100%, 37%, 0.08);
 }
-.category:nth-child(3) .title h3{
+.category:nth-child(3) .title h2{
     color: hsl(166, 100%, 37%);
 }
 .category:nth-child(4){
@@ -104,7 +107,6 @@ main{
 }
 .category:nth-child(4) .title h2{
     color:hsl(234, 85%, 45%);
-    font-size:var(--title-);
 }
 .title{
     display: flex;
@@ -113,7 +115,7 @@ main{
 }
 .category h2 span{
     color: hsl(241, 100%, 89%);
-    font-weight: 400;
+    font-weight: 500;
 }
 .continue{
     margin-top: .4rem;
